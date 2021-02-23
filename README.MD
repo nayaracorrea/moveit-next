@@ -3,6 +3,16 @@
 <h4 align="center"> 🚧 Em construção...  🚧 </h4>
 
 
+<p align="center">
+ <a href="#-sobre-o-projeto">Sobre</a> •
+ <a href="#-funcionalidades">Funcionalidades</a> •
+ <a href="#-layout">Layout</a> • 
+ <a href="#-como-executar-o-projeto">Como executar</a> • 
+ <a href="#-tecnologias">Tecnologias</a> • 
+ <a href="#-autora">Autora</a> • 
+</p>
+
+
 ## 💻 Sobre o projeto
 
 MoveIt foi criado com o intuito de ajudar pessoas que passam muito tempo em frente ao computador a realizar uma pausa e fazer uma atividade durante um determinado período.
@@ -66,7 +76,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 $ git clone git@github.com:nayaracorrea/moveit-next.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd README-ecoleta
+$ cd moveit-next
 
 # Vá para a pasta da aplicação Front End
 $ cd moveit-next
@@ -109,7 +119,7 @@ As seguintes ferramentes foram usadas na construção do projeto:
 
 
 
-## 🦸 Autora
+## 🙋 Autora
 
 
 <a href="https://app.rocketseat.com.br/me/nayaraflorentino-1602180404901">
