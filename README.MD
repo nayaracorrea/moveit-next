@@ -78,5 +78,5 @@ $ yarn dev ou npm run dev
 
 Feito por Nayara Corrêa 👋🏽 Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Nayara-Correa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nayara-corr%C3%AAa-03bb91149/)](https://www.linkedin.com/in/nayara-corr%C3%AAa-03bb91149/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Nayara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nayara-corr%C3%AAa-03bb91149/)](https://www.linkedin.com/in/nayara-corr%C3%AAa-03bb91149/) 
 [![Gmail Badge](https://img.shields.io/badge/-nayara.florentino@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayara.florentino@gmail.com)](mailto:nayara.florentino@gmail.com)
