@@ -56,6 +56,7 @@ $ yarn dev ou npm run dev
 
 # Para acessar a aplicação acesse: <http://localhost:3000>
 
+```
 
 ### Tecnologias
 
@@ -64,6 +65,18 @@ $ yarn dev ou npm run dev
 - [Typescript](https://www.typescriptlang.org/)
 
 
-### Autora
+## Autora
+---
 
-<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/43212442?s=400&u=6330cdf68f31859541a3805c6e2fa3bf59f90f82&v=4" width="100px;" alt=""/>
+
+<a href="https://app.rocketseat.com.br/me/nayaraflorentino-1602180404901">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/43212442?s=400&u=6330cdf68f31859541a3805c6e2fa3bf59f90f82&v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Nayara Corrêa</b></sub></a> <a href="https://app.rocketseat.com.br/me/nayaraflorentino-1602180404901" title="Rocketseat">🚀
+ </a>
+
+
+Feito por Nayara Corrêa 👋🏽 Entre em contato!
+
+[![Linkedin Badge](https://www.linkedin.com/in/nayara-corr%C3%AAa-03bb91149/)](https://www.linkedin.com/in/tgmarinho/) 
+[![Gmail Badge](https://img.shields.io/badge/-nayara.florentino@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayara.florentino@gmail.com)](mailto:nayara.florentino@gmail.com)
