@@ -9,16 +9,16 @@
 </h4>
 
 
-<h3 align="center"> Features </h3>
+### Features
 
--[x] Experience Bar
--[x] Profile
--[x] Countdown
--[x] Completed Challenge
--[x] Iniciar Ciclo
--[] Finalizar Ciclo
--[] Definir desafio
--[] Abandonar Ciclo
--[] Aumentar level após completar os desafios
+- [x] Experience Bar
+- [x] Profile
+- [x] Countdown
+- [x] Completed Challenge
+- [x] Iniciar Ciclo
+- [] Finalizar Ciclo
+- [] Definir desafio
+- [] Abandonar Ciclo
+- [] Aumentar level após completar os desafios
 
 <img src="https://media.giphy.com/media/yEYVJdxWaaqVmkMxjt/giphy.gif  />
