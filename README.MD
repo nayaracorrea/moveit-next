@@ -33,14 +33,18 @@ O MoveIt é um projeto que está sendo desenvolvido na NLW#4 realizado pela Rock
   - [x] Abandonar ciclo
   - [x] Finalizar ciclo
 - [x] Definir desafios
-- [ ] Falhar no desafio
+- [x] Falhar no desafio
   - [x] Resetar desafios
-  - [ ] Resetar tempo
-- [ ] Completar desafio
-  - [ ] Aumentar XP
-  - [ ] Resetar tempo
-  - [ ] Passar para o próximo desafio
-- [ ] Passar de level após completar a barra de XP
+  - [x] Resetar tempo
+- [x] Completar desafio
+  - [x] Aumentar XP
+  - [x] Resetar tempo
+  - [x] Passar para o próximo desafio
+- [x] Notificação de novo desafio disponível
+  - [x] Exibir notificação no browser
+  - [x] Inserir áudio de notificação
+- [x] Passar de level após completar a barra de XP
+- [ ] Exibir modal quando avançar de nível
 
 
 
